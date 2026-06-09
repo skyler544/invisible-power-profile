@@ -18,7 +18,6 @@ export default class VisiblePowerProfile {
 
             this._toggle?.connectObject('notify::checked', () => this._indicator.show(), this);
         });
-
     }
 
     disable() {
