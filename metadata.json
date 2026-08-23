@@ -1,16 +1,8 @@
 {
-  "description": "Always visible power profile, balanced or not.\n\nVery short code.",
-  "name": "Visible Power Profile",
-  "original-authors": [
-    "fthx"
-  ],
-  "shell-version": [
-    "50"
-  ],
-  "url": "https://github.com/fthx/visible-power-profile",
-  "uuid": "visible-power-profile@fthx",
-  "version": 999,
-  "donations": {
-    "paypal": "fthx75"
-  }
+  "description": "Always hide the power profile indicator.",
+  "name": "Invisible Power Profile",
+  "shell-version": ["50"],
+  "url": "https://github.com/skyler544/invisible-power-profile",
+  "uuid": "invisible-power-profile@skyler544",
+  "version": 1
 }
